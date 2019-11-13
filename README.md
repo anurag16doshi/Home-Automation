@@ -1,0 +1,2 @@
+# Home-Automation
+Developed a home automation systems that was able to controlled remotely via the internet. Developed an Android Applications as per specified qualifications to communicate with a pseudo-home raspberry pi system. Communication between the android application and raspberry pi was done by applying IoT concepts. Used languages like Java, Java for Android, PHP, MySQL and Python for the completion of this project.
